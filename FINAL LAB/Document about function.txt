@@ -7,3 +7,4 @@ front() and back() : input.front() is used to check the first character and inpu
 push_back(): it is a method used to add elements to the end of a  vector. it is push the input in word to print accordingly . 
 
 vector<string>: results is declared as a vector<string> to store a collection of strings, Using a vector<string> allows for flexibility in storing and accessing strings 
+Source :https://cplusplus.com/reference/
